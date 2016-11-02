@@ -1,0 +1,117 @@
+Items
+rock
+rock black
+Beautiful shiny black rock
+take drop
+
+plant
+plant
+Cute little plant
+take drop
+
+twizzlers
+twizzlers
+Yummy these twizzlers make your mouth water
+take drop
+
+maltesers
+maltesers
+Maltesers are always good arent they!
+take drop
+
+dust
+fairy dust
+Sprinkle a lil bit of this when you're worried...
+take drop
+
+sword
+sword 
+Sharp sword to defeat your enemies with, be careful it's sharp
+take drop
+
+glasses
+glasses
+To help you see when it's dark...
+take drop
+
+bottle
+bottle
+May come in handy when you're running out of liquids
+take drop
+
+satchel
+satchel bag
+Cute little brown satchel
+take drop open container
+scissors me knife
+
+pen
+pen
+Fluffy pen to help you fill your time
+take drop
+
+jawbreakers
+jawbreakers
+Warning: May hurt your jaw!
+take drop
+
+marshmallows
+marshmallows
+Fluffy clouds of yumminess
+take drop
+
+fantales
+fantales
+Caramel filled candy
+take drop
+
+soup
+soup beef brisket
+Beef brisket soup so good
+take drop
+
+spoon
+spoon
+To eat your soup with
+take drop
+
+bowl
+bowl
+well what else are you going to eat your soup in?
+take drop
+
+toolbox
+tool box toolbox
+contains some nifty tools that might come in handy!
+take drop open container
+rock me pen sword
+
+hammer
+hammer
+use to open/hit/smash things with
+take drop
+
+screwdriver
+screwdriver screw driver
+use to open things with
+take drop
+
+nail
+nail
+use to fix things with
+take drop
+
+boar
+boar
+His attacks give you +1 damage! You can attack him with a rock.
+attack damage health
+rock me
+1
+3
+
+Containers
+toolbox
+hammer screwdriver nail
+
+satchel
+pen bottle glasses

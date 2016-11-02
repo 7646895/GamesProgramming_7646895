@@ -1,0 +1,14 @@
+//
+// Created by Jessica Vilaysak on 27/10/2016.
+//
+
+#ifndef MESSAGINGSYSTEM_MOVEOBJECTMESSAGE_H
+#define MESSAGINGSYSTEM_MOVEOBJECTMESSAGE_H
+
+
+class MoveObjectMessage {
+
+};
+
+
+#endif //MESSAGINGSYSTEM_MOVEOBJECTMESSAGE_H

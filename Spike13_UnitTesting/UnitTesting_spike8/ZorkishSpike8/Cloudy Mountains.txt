@@ -1,0 +1,107 @@
+Locations
+Name
+Chocolate River
+You've arrived to a flowy river of chocolatey goodness.
+There is a clearing to your LEFT I wonder what's over there..
+Oh, theres a forest up AHEAD as well..
+Inventory
+You see a black ROCK hidden underneath some shrubs over there,
+oh theres a cute PLANT its purple! Pink TWIZZLERS catch
+your eye and theres MALTESERS...
+Items
+rock
+Beautiful shiny black rock
+plant
+cute little plant
+twizzlers
+Yummy these twizzlers make your mouth water
+maltesers
+maltesers are always good arent they!
+Name
+Fairy Clearing
+Wow it's like a sanctuary here.
+You see an open area in what seems like a fog made up of fairy dust...
+Up AHEAD there's a large mountain..
+Inventory
+You see a bag of fairy DUST in front of you, also there's an
+emerald SWORD ?? and what are these GLASSES? Hmm...
+Items
+dust
+Sprinkle a lil bit of this when you're worried...
+sword
+Sharp sword to defeat your enemies with, be careful it's sharp
+glasses
+To help you see when it's dark...
+Name
+Fern Forest
+You're surrounded by trees so thick you can barely make out what's 50 feet in front of you...
+You have an ominous feeling creeping up your spine..
+"There must be fairies here.." you think to yourself.
+To your RIGHT you see an opening to a creek?...
+Inventory
+You see an empty BOTTLE hmm that might be useful, also
+there's a brown SATCHEL, and a fluffy PEN on the floor...
+Items
+bottle
+May come in handy when you're running out of liquids
+satchel
+Cute little brown satchel
+pen
+Fluffy pen to help you fill your time
+Name
+Candy Mountain
+Candy candy everywhere! You feel like you're in heaven..
+but is this the real deal or just a dream?...
+BEHIND you there's what seems like a river...a brown river?...
+Inventory
+You see a- whats this? -- a bag of JAWBREAKERS! Your fav!
+There are MARSHMALLOWS and FANTALES this is heaven!...
+Items
+jawbreakers
+yum
+marshmallows
+so yum
+fantales
+supa yum
+Name
+Molten Creek
+You see a flowing body of what seems to be...lava?...
+What is this place...
+BEHIND you there's a forest..maybe you should retreat..
+Inventory
+You see remnants of a pot of SOUP, hmm that looks good.
+There's also a SPOON and a BOWL..
+Items
+soup
+beef brisket soup so good
+spoon
+to eat your soup with
+bowl
+well what else are you going to eat your soup in?
+
+Paths
+new
+Chocolate River
+Fairy Clearing
+left
+new
+Fairy Clearing
+Candy Mountain
+ahead
+new
+Candy Mountain
+Chocolate River
+behind
+new
+Chocolate River
+Fern Forest
+ahead
+new
+Fern Forest
+Molten Creek
+right
+new
+Molten Creek
+Candy Mountain
+behind
+

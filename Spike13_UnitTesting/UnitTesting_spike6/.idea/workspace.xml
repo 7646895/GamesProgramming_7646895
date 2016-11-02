@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="UnitTesting" targetName="gtest" />
+      <config projectName="UnitTesting" targetName="UnitTesting" />
+      <config projectName="UnitTesting" targetName="CommandPattern" />
+      <config projectName="UnitTesting" targetName="LocationImplementation" />
+      <config projectName="UnitTesting" targetName="ZorkishSpike8" />
+      <config projectName="UnitTesting" targetName="gtest_main" />
+      <config projectName="UnitTesting" targetName="ZorkishSpike7" />
+      <config projectName="UnitTesting" targetName="ZorkishSpike6" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
+    <ADDITIONAL_GENERATION_ENVIRONMENT>
+      <envs />
+    </ADDITIONAL_GENERATION_ENVIRONMENT>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3805b61b-830a-4a5c-bd86-6625cdcf2889" name="Default" comment="" />
+    <ignored path="UnitTesting.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="UnitTesting" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnitTests6.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UnitTests/UnitTests6.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ZorkishSpike6/Player.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ZorkishSpike6/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/ZorkishSpike6/Player.h" />
+        <option value="$PROJECT_DIR$/ZorkishSpike6/GameObject.h" />
+        <option value="$PROJECT_DIR$/ZorkishSpike6/Player.cpp" />
+        <option value="$PROJECT_DIR$/ZorkishSpike6/GameObject.cpp" />
+        <option value="$PROJECT_DIR$/UnitTests/test1.cpp" />
+        <option value="$PROJECT_DIR$/UnitTests/UnitTests6.cpp" />
+        <option value="$PROJECT_DIR$/ZorkishSpike7/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/ZorkishSpike7/Graph.h" />
+        <option value="$PROJECT_DIR$/ZorkishSpike7/Graph.cpp" />
+        <option value="$PROJECT_DIR$/ZorkishSpike7/StateSelectworld.cpp" />
+        <option value="$PROJECT_DIR$/ZorkishSpike7/StateGameplay.h" />
+        <option value="$PROJECT_DIR$/ZorkishSpike7/StateGameplay.cpp" />
+        <option value="$PROJECT_DIR$/UnitTests/UnitTests7.cpp" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/Commands/Command.h" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/Commands/Command.cpp" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/Commands/CommandTake.h" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/Commands/CommandLook.h" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/Commands/CommandGo.h" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/Commands/CommandDrop.h" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/Commands/CommandTake.cpp" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/Node.h" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/Node.cpp" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/Player.h" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/Player.cpp" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/Commands/CommandLook.cpp" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/Commands/CommandDrop.cpp" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/GameObject.cpp" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/GameObject.h" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/Commands/CommandGo.cpp" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/States/StateGameplay.cpp" />
+        <option value="$PROJECT_DIR$/ZorkishSpike8/States/StateGameplay.h" />
+        <option value="$PROJECT_DIR$/UnitTests/UnitTests8.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="284" />
+    <option name="y" value="101" />
+    <option name="width" value="1391" />
+    <option name="height" value="850" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UnitTesting - spike6" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UnitTesting - spike6" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UnitTesting - spike6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UnitTesting - spike6" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UnitTesting - spike6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZorkishSpike6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UnitTesting - spike6" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UnitTesting - spike6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UnitTests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UnitTesting - spike8" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ZorkishSpike8" />
+      <recent name="$PROJECT_DIR$/ZorkishSpike7" />
+      <recent name="$PROJECT_DIR$/ZorkishSpike6" />
+      <recent name="$PROJECT_DIR$/ZorkishSpike5" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/UnitTests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Google Test.All in UnitTests6.cpp">
+    <configuration default="false" name="ZorkishFixture_Inventory.TestInvAccessEmpty" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" singleton="true" temporary="true" WORKING_DIR="file://$PROJECT_DIR$/ZorkishSpike6" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UnitTesting" TARGET_NAME="UnitTesting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UnitTesting" RUN_TARGET_NAME="UnitTesting" TEST_CLASS="ZorkishFixture_Inventory" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ZorkishFixture_Inventory.TestInvAccessEmpty (1)" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" singleton="true" temporary="true" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UnitTesting" TARGET_NAME="UnitTesting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UnitTesting" RUN_TARGET_NAME="UnitTesting" TEST_CLASS="ZorkishFixture_Inventory" TEST_METHOD="TestInvAccessEmpty" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ZorkishFixture_Inventory.TestInvRemoval" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UnitTesting" TARGET_NAME="UnitTesting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UnitTesting" RUN_TARGET_NAME="UnitTesting" TEST_CLASS="ZorkishFixture_Inventory" TEST_METHOD="TestInvRemoval" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ZorkishFixture_Inventory.AllTests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" singleton="true" temporary="true" WORKING_DIR="file://$PROJECT_DIR$/ZorkishSpike6" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UnitTesting" TARGET_NAME="UnitTesting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UnitTesting" RUN_TARGET_NAME="UnitTesting" TEST_CLASS="ZorkishFixture_Inventory" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="All in UnitTests6.cpp" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UnitTesting" TARGET_NAME="UnitTesting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UnitTesting" RUN_TARGET_NAME="UnitTesting" TEST_PATTERN="ZorkishFixture_Inventory.*:ZorkishFixture_Inventory/*.*:*/ZorkishFixture_Inventory.*/*:*/ZorkishFixture_Inventory/*.*" TEST_MODE="PATTERN">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UnitTesting" TARGET_NAME="UnitTesting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UnitTesting" RUN_TARGET_NAME="UnitTesting" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UnitTesting" TARGET_NAME="UnitTesting" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UnitTesting" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UnitTesting" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UnitTesting" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UnitTesting" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UnitTesting" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UnitTesting" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UnitTesting" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="UnitTesting" type="CMakeRunConfiguration" factoryName="Application" singleton="true" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UnitTesting" TARGET_NAME="UnitTesting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UnitTesting" RUN_TARGET_NAME="UnitTesting">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" singleton="true" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UnitTesting" TARGET_NAME="UnitTesting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UnitTesting" RUN_TARGET_NAME="UnitTesting">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UnitTesting" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UnitTesting" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ZorkishSpike6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UnitTesting" TARGET_NAME="ZorkishSpike6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UnitTesting" RUN_TARGET_NAME="ZorkishSpike6">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="LocationImplementation" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UnitTesting" TARGET_NAME="LocationImplementation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UnitTesting" RUN_TARGET_NAME="LocationImplementation">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ZorkishSpike7" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UnitTesting" TARGET_NAME="ZorkishSpike7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UnitTesting" RUN_TARGET_NAME="ZorkishSpike7">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CommandPattern" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UnitTesting" TARGET_NAME="CommandPattern" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UnitTesting" RUN_TARGET_NAME="CommandPattern">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ZorkishSpike8" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$/ZorkishSpike8" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UnitTesting" TARGET_NAME="ZorkishSpike8" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <list size="14">
+      <item index="0" class="java.lang.String" itemvalue="Application.UnitTesting" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="2" class="java.lang.String" itemvalue="Application.gtest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.gtest_main" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ZorkishSpike6" />
+      <item index="5" class="java.lang.String" itemvalue="Application.LocationImplementation" />
+      <item index="6" class="java.lang.String" itemvalue="Application.ZorkishSpike7" />
+      <item index="7" class="java.lang.String" itemvalue="Application.CommandPattern" />
+      <item index="8" class="java.lang.String" itemvalue="Application.ZorkishSpike8" />
+      <item index="9" class="java.lang.String" itemvalue="Google Test.ZorkishFixture_Inventory.TestInvAccessEmpty" />
+      <item index="10" class="java.lang.String" itemvalue="Google Test.ZorkishFixture_Inventory.TestInvAccessEmpty (1)" />
+      <item index="11" class="java.lang.String" itemvalue="Google Test.ZorkishFixture_Inventory.TestInvRemoval" />
+      <item index="12" class="java.lang.String" itemvalue="Google Test.ZorkishFixture_Inventory.AllTests" />
+      <item index="13" class="java.lang.String" itemvalue="Google Test.All in UnitTests6.cpp" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Google Test.All in UnitTests6.cpp" />
+        <item index="1" class="java.lang.String" itemvalue="Google Test.ZorkishFixture_Inventory.AllTests" />
+        <item index="2" class="java.lang.String" itemvalue="Google Test.ZorkishFixture_Inventory.TestInvRemoval" />
+        <item index="3" class="java.lang.String" itemvalue="Google Test.ZorkishFixture_Inventory.TestInvAccessEmpty (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Google Test.ZorkishFixture_Inventory.TestInvAccessEmpty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3805b61b-830a-4a5c-bd86-6625cdcf2889" name="Default" comment="" />
+      <created>1476941631289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1476941631289</updated>
+      <workItem from="1476941632808" duration="1273000" />
+      <workItem from="1476944094695" duration="1252000" />
+      <workItem from="1476947000472" duration="488000" />
+      <workItem from="1476951092396" duration="14416000" />
+      <workItem from="1477030777784" duration="215000" />
+      <workItem from="1477032208385" duration="82000" />
+      <workItem from="1477036289833" duration="20000" />
+      <workItem from="1477053371417" duration="232000" />
+      <workItem from="1477470911173" duration="345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_UnitTests6_cpp - 2016.10.26 at 19h 35m 45s.xml">
+      <configuration name="All in UnitTests6.cpp" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ZorkishFixture_Inventory_TestInvAccessEmpty - 2016.10.21 at 14h 51m 29s.xml">
+      <configuration name="ZorkishFixture_Inventory.TestInvAccessEmpty" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ZorkishFixture_Inventory_TestInvAccessEmpty_(1) - 2016.10.21 at 14h 50m 25s.xml">
+      <configuration name="ZorkishFixture_Inventory.TestInvAccessEmpty (1)" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ZorkishFixture_Inventory_TestInvAccessEmpty_(1) - 2016.10.21 at 14h 51m 39s.xml">
+      <configuration name="ZorkishFixture_Inventory.TestInvAccessEmpty (1)" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ZorkishFixture_Inventory_TestInvAccessEmpty_(1) - 2016.10.21 at 14h 52m 15s.xml">
+      <configuration name="ZorkishFixture_Inventory.TestInvAccessEmpty (1)" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ZorkishFixture_Inventory_TestInvAccessEmpty_(1) - 2016.10.21 at 14h 52m 19s.xml">
+      <configuration name="ZorkishFixture_Inventory.TestInvAccessEmpty (1)" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ZorkishFixture_Inventory_TestInvAccessNotEmpty - 2016.10.21 at 14h 54m 11s.xml">
+      <configuration name="ZorkishFixture_Inventory.TestInvAccessNotEmpty" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ZorkishFixture_Inventory_TestInvAccessNotEmpty - 2016.10.21 at 14h 54m 52s.xml">
+      <configuration name="ZorkishFixture_Inventory.TestInvAccessNotEmpty" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ZorkishFixture_Inventory_TestInvAccessNotEmpty - 2016.10.21 at 17h 21m 12s.xml">
+      <configuration name="ZorkishFixture_Inventory.TestInvAccessNotEmpty" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ZorkishFixture_Inventory_TestInvRemoval - 2016.10.21 at 14h 53m 10s.xml">
+      <configuration name="ZorkishFixture_Inventory.TestInvRemoval" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18323000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="284" y="101" width="1391" height="850" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17613228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39948782" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/UnitTests/UnitTests6.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTests/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike5/StateMenu.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike6/Item.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike6/GameObject.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike6/Player.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike6/Item.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike6/GameObject.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike7/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike7/Edge.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike7/Edge.h" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike7/Node.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike7/StateSelectworld.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike7/Cloudy Mountains.txt" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike7/GameHandler.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike7/Graph.h" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike7/Graph.cpp" />
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/streambuf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="359" column="0" selection-start-line="359" selection-start-column="0" selection-end-line="359" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike7/StateGameplay.h" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike7/StateGameplay.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Commands/Command.h" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Commands/Command.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Commands/CommandController.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Commands/CommandTake.h" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Commands/CommandTake.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Commands/CommandLook.h" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Node.h" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Player.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Commands/CommandGo.h" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Commands/CommandDrop.h" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Commands/CommandDrop.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Player.h" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/GameObject.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/GameObject.h" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Commands/CommandGo.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Commands/CommandLook.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/GameHandler.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/States/State.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/States/StateGameplay.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/States/StateGameplay.h" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Cloudy Mountains.txt" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Graph.h" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Graph.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/Node.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike8/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/UnitTests/UnitTests8.cpp" />
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike6/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZorkishSpike6/Player.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTests/UnitTests6.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

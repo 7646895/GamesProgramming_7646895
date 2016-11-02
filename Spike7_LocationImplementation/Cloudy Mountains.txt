@@ -1,0 +1,54 @@
+Locations
+Name
+Chocolate River
+You've arrived to a flowy river of chocolatey goodness.
+There is a clearing to your LEFT I wonder what's over there..
+Oh, theres a forest up AHEAD as well..
+Name
+Fairy Clearing
+Wow it's like a sanctuary here.
+You see an open area in what seems like a fog made up of fairy dust...
+Up AHEAD there's a large mountain..
+Name
+Fern Forest
+You're surrounded by trees so thick you can barely make out what's 50 feet in front of you...
+You have an ominous feeling creeping up your spine..
+"There must be fairies here.." you think to yourself.
+To your RIGHT you see an opening to a creek?...
+Name
+Candy Mountain
+Candy candy everywhere! You feel like you're in heaven..
+but is this the real deal or just a dream?...
+BEHIND you there's what seems like a river...a brown river?...
+Name
+Molten Creek
+You see a flowing body of what seems to be...lava?...
+What is this place...
+BEHIND you there's a forest..maybe you should retreat..
+
+Paths
+new
+Chocolate River
+Fairy Clearing
+left
+new
+Fairy Clearing
+Candy Mountain
+ahead
+new
+Candy Mountain
+Chocolate River
+behind
+new
+Chocolate River
+Fern Forest
+ahead
+new
+Fern Forest
+Molten Creek
+right
+new
+Molten Creek
+Candy Mountain
+behind
+

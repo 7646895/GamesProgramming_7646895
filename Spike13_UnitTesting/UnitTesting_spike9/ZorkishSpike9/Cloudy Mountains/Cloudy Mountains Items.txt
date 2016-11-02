@@ -1,0 +1,130 @@
+Items
+rock
+rock black
+Beautiful shiny black rock
+You see a black ROCK hidden underneath some shrubs over there.
+F T
+
+plant
+plant
+Cute little plant
+Oh theres a cute PLANT its purple!
+F T
+
+twizzlers
+twizzlers
+Yummy these twizzlers make your mouth water
+Pink TWIZZLERS catch your eye.
+F T
+
+maltesers
+maltesers
+Maltesers are always good arent they!
+Are those MALTESERS on the floor?
+F T
+
+dust
+fairy dust
+Sprinkle a lil bit of this when you're worried...
+You see a bag of fairy DUST in front of you.
+F T
+
+sword
+sword 
+Sharp sword to defeat your enemies with, be careful it's sharp
+Is that an emerald SWORD??
+F T
+
+glasses
+glasses
+To help you see when it's dark...
+Over there are some GLASSES.
+F T
+
+bottle
+bottle
+May come in handy when you're running out of liquids
+You see an empty BOTTLE, hmm that might be useful.
+F T
+
+satchel
+satchel bag
+Cute little brown satchel
+Oh what's this brown SATCHEL doing here?
+T T
+scissors me knife
+
+pen
+pen
+Fluffy pen to help you fill your time
+Hey there's a cute fluffy PEN on the floor.
+F T
+
+jawbreakers
+jawbreakers
+Warning: May hurt your jaw!
+You see a- whats this? -- a bag of JAWBREAKERS! Your fav!
+F T
+
+marshmallows
+marshmallows
+Fluffy clouds of yumminess
+There are MARSHMALLOWS!!
+F T
+
+fantales
+fantales
+Caramel filled candy
+FANTALES?! This must be heaven!
+F T
+
+soup
+soup beef brisket
+Beef brisket soup so good
+You see remnants of a pot of SOUP, hmm that looks good.
+F T
+
+spoon
+spoon
+To eat your soup with
+There's a SPOON.
+F T
+
+bowl
+bowl
+well what else are you going to eat your soup in?
+There's a BOWL.
+F T
+
+toolbox
+tool box toolbox
+contains some nifty tools that might come in handy!
+Is that a TOOLBOX there?
+T T
+rock me pen sword
+
+hammer
+hammer
+use to open/hit/smash things with
+Wow that looks like a heavy HAMMER over there!
+F T
+
+screwdriver
+screwdriver screw driver
+use to open things with
+Oh look a handy dandy SCREWDRIVER.
+F T
+
+nail
+nail
+use to fix things with
+There's a NAIL on the floor.
+F T
+
+
+Containers
+toolbox
+hammer screwdriver nail
+
+satchel
+pen bottle glasses
